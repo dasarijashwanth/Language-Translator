@@ -1,6 +1,8 @@
 # Language Translator
-![](LN.png)
+
 https://dasarijashwanth.github.io/Language-Translator/
+
+![](LN.png)
 
 ## Overview
 The **Language Translator** is a web-based application that allows users to translate text from one language to another. It provides an intuitive user interface with features such as auto-detection of input language, dark mode support, file upload for translation, and the ability to download translated text as a document.
