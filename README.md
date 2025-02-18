@@ -1,5 +1,5 @@
 # Language Translator
-![](LT.png)
+![](LN.png)
 https://dasarijashwanth.github.io/Language-Translator/
 
 ## Overview
